@@ -7,7 +7,7 @@
     <a href="https://github.com/GregSino/RentCarFront"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href=https://github.com/GregSino/RentCarFront">View Demo</a>
+    <a href="https://github.com/GregSino/RentCarFront">View Demo</a>
     ·
     <a href="https://github.com/GregSino/RentCarFront/issues">Report Bug</a>
     ·
