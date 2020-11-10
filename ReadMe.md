@@ -4,14 +4,14 @@
   <p align="center">
     No database needed, develop with only free solutions!
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/GregSino/RentCarFront"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
+    <a href=https://github.com/GregSino/RentCarFront">View Demo</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
+    <a href="https://github.com/GregSino/RentCarFront/issues">Report Bug</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>
+    <a href="https://github.com/GregSino/RentCarFront/issues">Request Feature</a>
   </p>
 
 
@@ -108,7 +108,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Greg Sino - gregsino@gmail.com
 
-Project Link: [https://github.com/GregSino](https://github.com/GregSino)
+Project Link: [https://github.com/GregSino/RentCarFront](https://github.com/GregSino/RentCarFront)
 
 
 
