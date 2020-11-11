@@ -4,14 +4,16 @@
   <p align="center">
     No database needed, develop with only free solutions!
     <br />
-    <a href="https://github.com/GregSino/RentCarFront"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/GregSino/RentCarFront"><strong>Don't forget to get the Front office! »</strong></a>
+    <br />
+    <a href="https://github.com/GregSino/RentCarBack"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/GregSino/RentCarFront">View Demo</a>
+    <a href="https://github.com/GregSino/RentCarBack">View Demo</a>
     ·
-    <a href="https://github.com/GregSino/RentCarFront/issues">Report Bug</a>
+    <a href="https://github.com/GregSino/RentCarBack/issues">Report Bug</a>
     ·
-    <a href="https://github.com/GregSino/RentCarFront/issues">Request Feature</a>
+    <a href="https://github.com/GregSino/RentCarBack/issues">Request Feature</a>
   </p>
 
 
@@ -88,7 +90,7 @@ npm install popper.js --save
 
 1. Clone the repo
 ```sh
-git clone https://github.com/your_username_/Project-Name.git
+git clone https://github.com/GregSino/RentCarBack.git
 ```
 2. Install NPM packages
 ```sh
@@ -108,7 +110,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Greg Sino - gregsino@gmail.com
 
-Project Link: [https://github.com/GregSino/RentCarFront](https://github.com/GregSino/RentCarFront)
+Project Link: [https://github.com/GregSino/RentCarBack](https://github.com/GregSino/RentCarBack)
 
 
 
